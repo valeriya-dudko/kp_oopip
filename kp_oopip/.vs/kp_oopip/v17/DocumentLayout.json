@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\menus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:menus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\user_work.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:user_work.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\loaders.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loaders.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\product_work.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:product_work.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "header.h",
+              "DocumentMoniker": "D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\header.h",
+              "RelativeDocumentMoniker": "header.h",
+              "ToolTip": "D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\header.h",
+              "RelativeToolTip": "header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T11:07:55.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menus.cpp",
+              "DocumentMoniker": "D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\menus.cpp",
+              "RelativeDocumentMoniker": "menus.cpp",
+              "ToolTip": "D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\menus.cpp",
+              "RelativeToolTip": "menus.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAOgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T11:07:55.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T11:07:56.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loaders.cpp",
+              "DocumentMoniker": "D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\loaders.cpp",
+              "RelativeDocumentMoniker": "loaders.cpp",
+              "ToolTip": "D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\loaders.cpp",
+              "RelativeToolTip": "loaders.cpp",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T11:07:56.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "product_work.cpp",
+              "DocumentMoniker": "D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\product_work.cpp",
+              "RelativeDocumentMoniker": "product_work.cpp",
+              "ToolTip": "D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\product_work.cpp",
+              "RelativeToolTip": "product_work.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T11:07:56.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "user_work.cpp",
+              "DocumentMoniker": "D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\user_work.cpp",
+              "RelativeDocumentMoniker": "user_work.cpp",
+              "ToolTip": "D:\\ucheba\\\u0423\u0447\u0447\u0447\u0447\u0431\u0430\u0430\u0430\\kp 2\\kp_oopip\\user_work.cpp",
+              "RelativeToolTip": "user_work.cpp",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T11:07:56.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

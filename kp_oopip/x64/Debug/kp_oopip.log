@@ -1,0 +1,11 @@
+﻿  product_work.cpp
+D:\Уччччбааа\kp 2\kp_oopip\product_work.cpp(97,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Уччччбааа\kp 2\kp_oopip\product_work.cpp(208,25): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Уччччбааа\kp 2\kp_oopip\product_work.cpp(321,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Уччччбааа\kp 2\kp_oopip\product_work.cpp(553,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Уччччбааа\kp 2\kp_oopip\product_work.cpp(569,25): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Уччччбааа\kp 2\kp_oopip\product_work.cpp(585,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Уччччбааа\kp 2\kp_oopip\product_work.cpp(838,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Уччччбааа\kp 2\kp_oopip\product_work.cpp(860,25): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Уччччбааа\kp 2\kp_oopip\product_work.cpp(882,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  kp_oopip.vcxproj -> D:\Уччччбааа\kp 2\kp_oopip\x64\Debug\kp_oopip.exe
